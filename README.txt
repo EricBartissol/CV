@@ -1,3 +1,6 @@
+
+Version online https://ericbartissol.github.io/CV/
+
 Eric Bartissol resume inspired by Astral Theme.
 
 Thanks AJ 
